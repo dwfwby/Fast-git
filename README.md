@@ -35,7 +35,7 @@ Required scopes:
 2. All admin:org  
 
 ### 2. Set remote url
-If, after cloning someone else's repository, you need to add a link from your repository, then in the context menu:
+If, after cloning someone else's repository, you need to add a link from your repository, then in the context menu:  
 Click "Set remote url" → and select an open folder in our project. It must contain a git!
 
 ### 3. Create repository
