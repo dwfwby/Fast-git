@@ -48,6 +48,7 @@ going to the folder path, entering 3 commands, namely:
 git add .
 git commit --allow-empty-message -m ''
 git push "url"
+
 NOW:
 1. Open the context menu.
 2. Hover over the plugin.
