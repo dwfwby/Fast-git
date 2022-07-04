@@ -56,7 +56,7 @@ NOW:
 4. Select the desired folder and click.
 
 OR:
-1. Press the key combination ctrl + "num"
+1. Press the key combination ctrl + "num eq pos. folder in list opened folders"
 
 ### 5. Clone repository to
 Well, here I don't even know what to explain...  
