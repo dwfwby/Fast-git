@@ -53,6 +53,7 @@ NOW:
 2. Hover over the plugin.
 3. Hover over "Update repository".
 4. Select the desired folder and click.
+
 OR:
 1. Press the key combination ctrl + "num"
 
