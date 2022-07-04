@@ -15,5 +15,5 @@ Everything is implemented using batch commands sent by sublime text. But I can a
 ## Key bindings 
 Also added keyboard shortcuts for quick pushing. "ctrl+<number from 1 to 0 on keyboard>"  
 Example:  
- - Your open folder is the first one in the list, press ctrl+1.  
- - Or your open folder is second in the list, press ctrl+2. And so on.  
+ - Your opened folder is the first one in the list, press ctrl+1.  
+ - Or your opened folder is second in the list, press ctrl+2. And so on.  
