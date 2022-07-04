@@ -36,3 +36,24 @@ Required scopes:
 ### 2. Set remote url
 If, after cloning someone else's repository, you need to add a link from your repository, then in the context menu:
 Click "Set remote url" → and select an open folder in our project. It must contain a git!
+
+### 3. Create repository
+You need to quickly create a repository so that it is already in sync with your git account, then:
+Click "Create repository" → and select an open folder in our project. Folder name must not contain spaces!
+
+### 4. Update repository
+The fourth and probably the most important function of this plugin, because of which I was constantly annoyed by opening cmd, going to the folder path, entering 3 commands, namely:
+git add .
+git commit --allow-empty-message -m ''
+git push "url"
+NOW:
+1. Open the context menu.
+2. Hover over the plugin.
+3. Hover over "Update repository".
+4. Select the desired folder and click.
+OR:
+1. Press the key combination ctrl + "num"
+
+### 5. Clone repository to
+Well, here I don't even know what to explain...
+You just hover over "Clone repository to", select a folder from those added to the project and enter a link to the repository.
