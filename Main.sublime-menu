@@ -1,0 +1,79 @@
+[
+	{
+		"caption":"Fast git",
+		"id":"FastGit",
+		"children":
+		[
+			{
+				"caption":"Set token",
+				"command":"fast_git_set_token"
+			},
+			{
+				"caption":"Set remote url",
+				"children":
+				[
+					{"command":"fast_git_set_remote", "args":{"index":0}},
+					{"command":"fast_git_set_remote", "args":{"index":1}},
+					{"command":"fast_git_set_remote", "args":{"index":2}},
+					{"command":"fast_git_set_remote", "args":{"index":3}},
+					{"command":"fast_git_set_remote", "args":{"index":4}},
+					{"command":"fast_git_set_remote", "args":{"index":5}},
+					{"command":"fast_git_set_remote", "args":{"index":6}},
+					{"command":"fast_git_set_remote", "args":{"index":7}},
+					{"command":"fast_git_set_remote", "args":{"index":8}},
+					{"command":"fast_git_set_remote", "args":{"index":9}},
+				]
+			},
+			{
+				"caption":"Create repository",
+				"children":
+				[
+					{"command":"fast_git_create", "args":{"index":0}},
+					{"command":"fast_git_create", "args":{"index":1}},
+					{"command":"fast_git_create", "args":{"index":2}},
+					{"command":"fast_git_create", "args":{"index":3}},
+					{"command":"fast_git_create", "args":{"index":4}},
+					{"command":"fast_git_create", "args":{"index":5}},
+					{"command":"fast_git_create", "args":{"index":6}},
+					{"command":"fast_git_create", "args":{"index":7}},
+					{"command":"fast_git_create", "args":{"index":8}},
+					{"command":"fast_git_create", "args":{"index":9}},
+				]
+			},
+			{
+				"caption":"Update repository",
+				"children":
+				[
+					{"command":"fast_git_update", "args":{"index":0}},
+					{"command":"fast_git_update", "args":{"index":1}},
+					{"command":"fast_git_update", "args":{"index":2}},
+					{"command":"fast_git_update", "args":{"index":3}},
+					{"command":"fast_git_update", "args":{"index":4}},
+					{"command":"fast_git_update", "args":{"index":5}},
+					{"command":"fast_git_update", "args":{"index":6}},
+					{"command":"fast_git_update", "args":{"index":7}},
+					{"command":"fast_git_update", "args":{"index":8}},
+					{"command":"fast_git_update", "args":{"index":9}},
+				]
+			},
+			{
+				"caption":"Clone repository to",
+				"children":
+				[
+					{"command":"fast_git_clone", "args":{"index":0}},
+					{"command":"fast_git_clone", "args":{"index":1}},
+					{"command":"fast_git_clone", "args":{"index":2}},
+					{"command":"fast_git_clone", "args":{"index":3}},
+					{"command":"fast_git_clone", "args":{"index":4}},
+					{"command":"fast_git_clone", "args":{"index":5}},
+					{"command":"fast_git_clone", "args":{"index":6}},
+					{"command":"fast_git_clone", "args":{"index":7}},
+					{"command":"fast_git_clone", "args":{"index":8}},
+					{"command":"fast_git_clone", "args":{"index":9}},
+				]
+			},
+		]
+
+	}
+
+]

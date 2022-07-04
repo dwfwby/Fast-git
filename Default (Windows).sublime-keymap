@@ -1,0 +1,52 @@
+[
+    {
+    	"keys": ["ctrl+1"],
+    	"command":"fast_git_update", 
+    	"args":{"index":0}
+    },
+    {
+    	"keys": ["ctrl+2"],
+    	"command":"fast_git_update", 
+    	"args":{"index":1}
+    },
+    {
+    	"keys": ["ctrl+3"],
+    	"command":"fast_git_update", 
+    	"args":{"index":2}
+    },
+    {
+    	"keys": ["ctrl+4"],
+    	"command":"fast_git_update", 
+    	"args":{"index":3}
+    },
+    {
+    	"keys": ["ctrl+5"],
+    	"command":"fast_git_update", 
+    	"args":{"index":4}
+    },
+    {
+    	"keys": ["ctrl+6"],
+    	"command":"fast_git_update", 
+    	"args":{"index":5}
+    },
+    {
+    	"keys": ["ctrl+7"],
+    	"command":"fast_git_update", 
+    	"args":{"index":6}
+    },
+    {
+    	"keys": ["ctrl+8"],
+    	"command":"fast_git_update", 
+    	"args":{"index":7}
+    },
+    {
+    	"keys": ["ctrl+9"],
+    	"command":"fast_git_update", 
+    	"args":{"index":8}
+    },
+    {
+    	"keys": ["ctrl+0"],
+    	"command":"fast_git_update", 
+    	"args":{"index":9}
+    }
+]
