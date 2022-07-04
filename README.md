@@ -28,7 +28,8 @@ Tested only Windows 10. Not tested on other versions.
 
 ## More
 ### 1. Set token
-To grant access to the plugin when working with repositories, you need to create an access token using this link https://github.com/settings/tokens. Then, in the context menu, click the "Set token" function and enter it in the input field that appears.
+To grant access to the plugin when working with repositories, you need to create an access token using this link https://github.com/settings/tokens.  
+Then, in the context menu, click the "Set token" function and enter it in the input field that appears.
 Required scopes:
 1. All repos
 2. All admin:org  
@@ -42,7 +43,8 @@ You need to quickly create a repository so that it is already in sync with your 
 Click "Create repository" → and select an open folder in our project. Folder name must not contain spaces!
 
 ### 4. Update repository
-The fourth and probably the most important function of this plugin, because of which I was constantly annoyed by opening cmd, going to the folder path, entering 3 commands, namely:
+The fourth and probably the most important function of this plugin, because of which I was constantly annoyed by opening cmd,  
+going to the folder path, entering 3 commands, namely:
 git add .
 git commit --allow-empty-message -m ''
 git push "url"
@@ -55,5 +57,5 @@ OR:
 1. Press the key combination ctrl + "num"
 
 ### 5. Clone repository to
-Well, here I don't even know what to explain...
+Well, here I don't even know what to explain...  
 You just hover over "Clone repository to", select a folder from those added to the project and enter a link to the repository.
