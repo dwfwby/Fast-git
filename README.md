@@ -25,3 +25,9 @@ Example:
 
 ## O.S.
 Tested only Windows 10. Not tested on other versions.
+
+## 1. Set token
+To grant access to the plugin when working with repositories, you need to create an access token using this link https://github.com/settings/tokens. Then, in the context menu, click the "Set token" function and enter it in the input field that appears.
+Required scopes:
+1. All repos
+2. All admin:org
