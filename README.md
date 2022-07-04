@@ -21,7 +21,7 @@ Example:
 ## Instalation  
 1. Open context menu in sublime text (key ALT)
 2. Go "preferences" → "browse packages"
-3. Insert "Fast git" folder into this folder
+3. Insert "Fast git" folder into this folder (not "Fast-git", namely "Fast git")
 
 ## O.S.
 Tested only Windows 10. Not tested on other versions.
@@ -31,4 +31,8 @@ Tested only Windows 10. Not tested on other versions.
 To grant access to the plugin when working with repositories, you need to create an access token using this link https://github.com/settings/tokens. Then, in the context menu, click the "Set token" function and enter it in the input field that appears.
 Required scopes:
 1. All repos
-2. All admin:org
+2. All admin:org  
+
+### 2. Set remote url
+If, after cloning someone else's repository, you need to add a link from your repository, then in the context menu:
+Click "Set remote url" → and select an open folder in our project. It must contain a git!
