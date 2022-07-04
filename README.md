@@ -16,4 +16,9 @@ Everything is implemented using batch commands sent by sublime text. But I can a
 Also added keyboard shortcuts for quick pushing. "ctrl+<number from 1 to 0 on keyboard>"  
 Example:  
  - Your opened folder is the first one in the list, press ctrl+1.  
- - Or your opened folder is second in the list, press ctrl+2. And so on.  
+ - Or your opened folder is second in the list, press ctrl+2. And so on.
+ 
+## Instalation  
+1. Open context menu in sublime text
+2. Go "preferences" → "browse packages"
+3. Insert "Fast git" into this folder
