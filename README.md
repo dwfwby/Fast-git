@@ -6,8 +6,13 @@ This git is a plugin for the sublime text program. Its advantage is that you don
 Everything is implemented using batch commands sent by sublime text. But I can admit that because of this, the weight is significantly large.
 
 **Basic functional (context menu)**
-1. Set token
-2. Set remote url
-3. Create repository
-4. Update repository
-5. Clone repository
+1. Set token → <input token>
+2. Set remote url → <choise open folder> → <input url>
+3. Create repository → <choise open folder>
+4. Update repository → <choise open folder>
+5. Clone repository → <choise open folder>
+
+Also added keyboard shortcuts for quick pushing. "ctrl+<number from 1 to 0 on keyboard>"
+Example:
+Your open folder is the first one in the list, press ctrl+1.
+Or your open folder is second in the list, press ctrl+2. And so on.
