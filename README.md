@@ -19,6 +19,6 @@ Example:
  - Or your opened folder is second in the list, press ctrl+2. And so on.
  
 ## Instalation  
-1. Open context menu in sublime text
+1. Open context menu in sublime text (key ALT)
 2. Go "preferences" → "browse packages"
 3. Insert "Fast git" into this folder
