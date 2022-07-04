@@ -21,7 +21,7 @@ Example:
 ## Instalation  
 1. Open context menu in sublime text (key ALT)
 2. Go "preferences" → "browse packages"
-3. Insert "Fast git" into this folder
+3. Insert "Fast git" folder into this folder
 
 ## O.S.
 Tested only Windows 10. Not tested on other versions.
